@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
@@ -27,4 +28,16 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
