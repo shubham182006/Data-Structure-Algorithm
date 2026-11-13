@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0735-asteroid-collision](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
@@ -40,4 +41,28 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
