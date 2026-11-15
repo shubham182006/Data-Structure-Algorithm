@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
