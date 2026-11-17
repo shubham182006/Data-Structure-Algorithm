@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
