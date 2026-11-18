@@ -73,5 +73,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
