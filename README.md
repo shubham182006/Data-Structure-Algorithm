@@ -75,6 +75,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
