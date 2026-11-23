@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0735-asteroid-collision](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
