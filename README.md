@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0204-count-primes) |
@@ -23,6 +24,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/shubham182006/Data-Structure-Algorithm/tree/master/0278-first-bad-version) |
